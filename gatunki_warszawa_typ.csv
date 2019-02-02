@@ -1,0 +1,357 @@
+,Nazwa lacinska,Nazwa polska,igla_lisc
+0,Robinia  sp.,robinia  sp.,liściaste
+1,Acer negundo,klon jesionolistny,liściaste
+2,Populus nigra,topola czarna,liściaste
+3,Betula pendula,brzoza brodawkowata,liściaste
+4,Robinia pseudoacacia,robinia biała,liściaste
+5,Ulmus laevis ,wiąz szypułkowy,liściaste
+6,Morus alba,morwa biała,liściaste
+7,Juglans regia,orzech włoski,liściaste
+8,Fraxinus excelsior,jesion wyniosły,liściaste
+9,Populus simonii,topola Simona,liściaste
+10,Populus x canadensis,topola kanadyjska,liściaste
+11,Robinia pseudoacacia 'Umbraculifera',"robinia biała ""Umbraculifera""",liściaste
+12,Tilia cordata,lipa drobnolistna,liściaste
+13,Acer platanoides 'Globosum',"klon pospolity ""Globosum""",liściaste
+14,"Tilia xeuropaea ""Pallida""","lipa holenderska ""Pallida""",liściaste
+15,Prunus serrulata,wiśnia piłkowana,liściaste
+16,Populus nigra 'Italica',"topola czarna ""Italica""",liściaste
+17,Acer platanoides,klon pospolity,liściaste
+18,Acer pseudoplatanus,klon jawor,liściaste
+19,Prunus cerasifera,śliwa ałycza,liściaste
+20,Pyrus pyraster,grusza pospolita,liściaste
+21,Acer saccharinum,klon srebrzysty,liściaste
+22,Acer tataricum subsp. Ginnala,klon tatarski subsp. Ginnala,liściaste
+23,Crataegus monogyna 'Stricta',"głóg jednoszyjkowy ""Stricta""",liściaste
+24,Prunus  sp.(wiśnia),wiśnia  sp.,liściaste
+25,Crataegus x lavallei 'Carrierei',"głóg Lavalle""a ""Carrierei""",liściaste
+26,Sorbus aucuparia,jarząb pospolity ,liściaste
+27,Tilia xeuropaea,lipa holenderska,liściaste
+28,Quercus robur,dąb szypułkowy,liściaste
+29,Salix fragilis,wierzba krucha,liściaste
+30,"Thuja occidentalis ""Fastigiata""","żywotnik zachodni ""Fastigiata""",iglaste
+31,"Quercus robur ""Fastigiate Koster''","dąb szypułkowy ''Fastigiate Koster""",liściaste
+32,Aesculus hippocastanum,kasztanowiec pospolity,liściaste
+33,Sorbus aria,jarząb mączny,liściaste
+34,Malus  sp.,jabłoń  sp.,liściaste
+35,Prunus  sp.(morela),morela sp.,O
+36,Crataegus monogyna,głóg jednoszyjkowy,liściaste
+37,Populus x berolinensis,topola berlińska,liściaste
+38,Crataegus sp.,głóg sp.,liściaste
+39,Platanus x hispanica,platan klonolistny,liściaste
+40,Aesculus  sp.,kasztanowiec  sp.,liściaste
+41,Sorbus intermedia,jarząb szwedzki,liściaste
+42,Prunus avium,czereśnia ptasia,O
+43,Ulmus glabra ,wiąz górski ,liściaste
+44,Pyrus 'Chanticleer',"grusza ""Chanticleer""",liściaste
+45,Acer platanoides 'Drummondii',"klon pospolity ""Drummondii""",liściaste
+46,Tilia 'Euchlora',lipa krymska,liściaste
+47,Rhus typhina,sumak octowiec,liściaste
+48,Syringa  sp.,lilak  sp.,liściaste
+49,Catalpa bignonioides,surmia bignoniowa,liściaste
+50,Ulmus minor,wiąz polny,liściaste
+51,Fraxinus  sp.,jesion  sp.,liściaste
+52,Populus  sp.,topola  sp.,liściaste
+53,Prunus  sp.(śliwa),śliwa  sp.,liściaste
+54,Populus maximowiczii,topola Maksymowicza,liściaste
+55,**,** nieokreślony **,O
+56,Crataegus laevigata,głóg dwuszyjkowy,liściaste
+57,Malus domestica,jabłoń domowa,liściaste
+58,Carpinus betulus,grab pospolity,liściaste
+59,Picea pungens,świerk kłujący,iglaste
+60,Sambucus nigra,bez czarny ,liściaste
+61,Morus  sp.,morwa  sp.,liściaste
+62,Platanus sp.,platan sp.,liściaste
+63,Fraxinus pennsylvanica,jesion pensylwański,liściaste
+64,Thuja  sp.,żywotnik  sp.,iglaste
+65,Juniperus virginiana,jałowiec wirginijski,iglaste
+66,Acer  sp.,klon  sp.,liściaste
+67,Prunus  sp.(czereśnia),czereśnia  sp.,O
+68,Abies concolor,jodła jednobarwna,iglaste
+69,Malus sylvestris,jabłoń  dzika,liściaste
+70,Catalpa  sp.,surmia  sp.,liściaste
+71,Prunus cerasus,wiśnia pospolita,liściaste
+72,Pyrus  sp.,grusza  sp.,liściaste
+73,Populus alba,topola biała,liściaste
+74,Tilia platyphyllos,lipa szerokolistna,liściaste
+75,Robinia pseudoacacia 'Bessoniana',"robinia biała ""Bessoniana""",liściaste
+76,Tilia  sp.,lipa  sp.,liściaste
+77,Quercus rubra,dąb czerwony,liściaste
+78,Laburnum  sp.,złotokap  sp.,liściaste
+79,Rubus idaeus,malina właściwa,liściaste
+80,Populus x canadensis 'Marilandica',"topola kanadyjska ""Marilandica""",liściaste
+81,Betula  sp.,brzoza  sp.,liściaste
+82,Pinus sylvestris,sosna pospolita,iglaste
+83,Larix decidua,modrzew europejski,iglaste
+84,Ulmus  sp.,wiąz  sp.,liściaste
+85,Larix  sp.,modrzew  sp.,iglaste
+86,Salix babylonica 'Tortuosa',"wierzba babilońska ""Tortuosa""",liściaste
+87,Sorbus  sp.,jarząb  sp.,liściaste
+88,Acer tataricum,klon tatarski,liściaste
+89,Syringa vulgaris,lilak pospolity,liściaste
+90,Hippophae rhamnoides,rokitnik pospolity,liściaste
+91,Juniperus virginiana 'Skyrocket',"jałowiec wirginijski ""Skyrocket""",iglaste
+92,Thuja occidentalis 'Brabant',"żywotnik zachodni ""Brabant""",iglaste
+93,Ginkgo biloba,miłorząb dwuklapowy,liściaste
+94,Prunus persica,brzoskwinia pospolita,O
+95,Quercus petraea,dąb bezszypułkowy,liściaste
+96,Salix alba,wierzba biała,liściaste
+97,Prunus serrulata 'Ama-no-gawa',"wiśnia piłkowana ""Ama-no-gawa""",liściaste
+98,Magnolia  sp.,magnolia  sp.,liściaste
+99,Tilia americana,lipa amerykańska,liściaste
+100,Liriodendron tulipifera,tulipanowiec amerykański,liściaste
+101,Fagus sylvatica 'Pendula',"buk pospolity ""Pendula""",liściaste
+102,Pinus  sp.,sosna  sp.,iglaste
+103,Liquidambar styraciflua,ambrowiec balsamiczny,liściaste
+104,Acer palmatum 'Atropurpureum',"klon palmowy ""Atropurpureum""",liściaste
+105,Prunus triloba,migdałek trójklapowy,liściaste
+106,Prunus x eminens 'Umbraculifera',"wiśnia osobliwa ""Umbraculifera""",liściaste
+107,Pinus nigra,sosna czarna,iglaste
+108,Tilia tomentosa,lipa srebrzysta,liściaste
+109,Picea pungens 'Glauca',"świerk kłujący ""Glauca""",iglaste
+110,Juniperus  sp.,jałowiec  sp.,iglaste
+111,Abies alba,jodła pospolita,iglaste
+112,Thuja occidentalis 'Smaragd',"żywotnik zachodni ""Smaragd""",iglaste
+113,Picea abies,świerk pospolity,iglaste
+114,Salix  sp.,wierzba  sp.,liściaste
+115,Thuja occidentalis,żywotnik zachodni,iglaste
+116,Prunus serotina,czeremcha późna,liściaste
+117,Populus xcanescens,topola szara,liściaste
+118,Ptelea trifoliata,parczelina trójlistkowa,liściaste
+119,Pinus rigida,sosna smołowa,iglaste
+120,Prunus domestica subsp. syriaca,śliwa domowa mirabelka,liściaste
+121,Elaeagnus  sp.,oliwnik  sp.,liściaste
+122,Castanea  sp.,kasztan  sp.,liściaste
+123,Juglans  sp.,orzech  sp.,liściaste
+124,Populus tremula,topola osika,liściaste
+125,Picea  sp.,świerk  sp.,iglaste
+126,Prunus  sp.(czeremcha),czeremcha  sp.,liściaste
+127,Sorbus torminalis,jarząb brekinia ,liściaste
+128,Abies  sp.,jodła  sp.,iglaste
+129,Salix x sepulcralis 'Chrysocoma',wierzba płacząca,liściaste
+130,Tilia cordata 'Greenspire',"lipa drobnolistna ""Greenspire""",liściaste
+131,Crataegus macracantha,głóg długocierniowy,liściaste
+132,Pinus strobus,sosna wejmutka,iglaste
+133,Elaeagnus angustifolia,oliwnik wąskolistny,liściaste
+134,Alnus glutinosa,olsza czarna,O
+135,Pseudotsuga  sp.,daglezja  sp.,iglaste
+136,Hippophae  sp.,rokitnik  sp.,liściaste
+137,Pinus ponderosa,sosna żółta,iglaste
+138,Betula pubescens,brzoza omszona,liściaste
+139,Cornus mas,dereń jadalny,liściaste
+140,Carpinus betulus 'Columnaris',"grab pospolity ""Columnaris""",liściaste
+141,Fraxinus excelsior 'Pendula',"jesion wyniosły ""Pendula""",liściaste
+142,Prunus padus,czeremcha pospolita,liściaste
+143,Acer campestre,klon polny,liściaste
+144,Prunus domestica,śliwa domowa,liściaste
+145,Picea pungens 'Hoopsii',"świerk kłujący ""Hoopsii""",iglaste
+146,Sorbus latifolia,jarząb szerokolistny,liściaste
+147,Salix caprea,wierzba iwa,liściaste
+148,Taxus baccata,cis pospolity,iglaste
+149,Ulmus 'Camperdownii',"wiąz ""Camperdownii""",liściaste
+150,Betula papyrifera,brzoza papierowa,liściaste
+151,Picea omorika,świerk serbski,iglaste
+152,Betula utilis 'Doorenbos',"brzoza pożyteczna ""Doorenbos""",liściaste
+153,Chamaecyparis  sp.,cyprysik  sp.,iglaste
+154,Laburnum anagyroides,złotokap pospolity,liściaste
+155,Acer pensylvanicum,klon pensylwański,liściaste
+156,Rhus  sp.,sumak  sp.,liściaste
+157,Fraxinus ornus,jesion mannowy,liściaste
+158,Acer platanoides 'Fassen's Black',"klon pospolity ""Fassen's Black""",liściaste
+159,Acer negundo 'Odessanum',"klon jesionolistny ""Odessanum""",liściaste
+160,Picea abies subsp. obovata,świerk pospolity subsp. obovata,iglaste
+161,Tilia tomentosa 'Brabant',"lipa srebrzysta ""Brabant""",liściaste
+162,Sophora japonica,sofora chińska,O
+163,Fagus sylvatica,buk pospolity,liściaste
+164,Pseudotsuga menziesii,daglezja zielona,iglaste
+165,Fagus sylvatica 'Dawyck',"buk pospolity ""Dawyck""",liściaste
+166,Abies nordmanniana,jodła kaukaska,iglaste
+167,Acer rubrum,klon czerwony,liściaste
+168,Carpinus  sp.,grab  sp.,liściaste
+169,Tsuga canadensis,choina kanadyjska,iglaste
+170,Fagus  sp.,buk  sp.,liściaste
+171,Quercus  sp.,dąb  sp.,liściaste
+172,Chamaecyparis nootkatensis,cyprysik nutkajski,iglaste
+173,Liriodendron  sp.,tulipanowiec  sp.,liściaste
+174,Aesculus xcarnea,kasztanowiec czerwony,liściaste
+175,Malus 'Listet',"jabłoń ""Liset""",liściaste
+176,Sambucus  sp.,bez  sp.,liściaste
+177,Tilia tomentosa 'Varsaviensis',"lipa srebrzysta ""Varsaviensis""",liściaste
+178,Salix babylonica,wierzba babilońska,liściaste
+179,Quercus rubra 'Aurea',"dąb czerwony ""Aurea""",liściaste
+180,Taxus  sp.,cis  sp.,iglaste
+181,Acer campestre 'Nanum',"klon polny ""Nanum""",liściaste
+182,Prunus spinosa,śliwa tarnina,liściaste
+183,Euonymus  sp.,trzmielina sp.,liściaste
+184,Prunus  sp.(brzoskwinia),brzoskwinia  sp.,O
+185,Malus x purpurea,jabłoń purpurowa,liściaste
+186,Catalpa speciosa,surmia wielkokwiatowa,liściaste
+187,Carpinus betulus 'Fastigiata',"grab pospolity ""Fastigiata""",liściaste
+188,Acer rubrum 'Red Sunset',"klon czerwony ""Red Sunset""",liściaste
+189,Abies koreana,jodła koreańska,iglaste
+190,Juniperus communis,jałowiec pospolity,iglaste
+191,Acer campestre 'Elsrijk',"klon polny ""Elsrijk""",liściaste
+192,Quercus robur 'Fastigiata',"dąb szypułkowy ""Fastigiata""",liściaste
+193,Corylus  sp.,leszczyna  sp.,liściaste
+194,Metasequoia  sp.,metasekwoja  sp.,iglaste
+195,Betula pendula 'Youngii',"brzoza brodawkowata ""Youngii""",liściaste
+196,"Prunus serrulata 'Kanzan""","wiśnia piłkowana ""Kanzan""",liściaste
+197,Gleditsia triacanthos,glediczja trójcierniowa,liściaste
+198,Euonymus europaeus,trzmielina pospolita,liściaste
+199,Alnus incana,olsza szara,O
+200,Alnus  sp.,olsza  sp.,O
+201,Ginkgo  sp.,miłorząb  sp.,liściaste
+202,Malus baccata,jabłoń jagodowa,liściaste
+203,Caragana  sp.,karagana  sp.,O
+204,Corylus colurna,leszczyna turecka,liściaste
+205,Rhamnus  sp.,szakłak  sp.,liściaste
+206,Placytladus orientalis(=Thuja orientalis),biota wschodnia (żywotnik wschodni),O
+207,Acer pseudoplatanus 'Leopoldii',"klon jawor ""Leopoldii""",liściaste
+208,Ailanthus altissima,bożodrzew gruczołkowaty,liściaste
+209,Caragana arborescens,karagana syberyjska,O
+210,Corylus avellana,leszczyna pospolita,liściaste
+211,Prunus  sp.(migdałek),migdałek sp.,liściaste
+212,Cotinus coggygria,perukowiec podolski,liściaste
+213,Tamarix  sp.,tamaryszek  sp.,O
+214,Philadelphus  sp.,jaśminowiec  sp.,O
+215,Carya sp.,orzesznik sp.,liściaste
+216,Prunus domestica subsp. domestica,śliwa domowa węgierka,liściaste
+217,Taxus baccata 'Repandens',"cis pospolity ""Repandens""",iglaste
+218,Acer negundo 'Variegatum',"klon jesionolistny ""Variegatum""",liściaste
+219,Prunus x eminens,wiśnia osobliwa,liściaste
+220,Crataegus x media 'Paul's Scarlet',"głóg pośredni ""Paul""s Scarlet""",liściaste
+221,Larix kaempferi,modrzew japoński,iglaste
+222,Picea orientalis,świerk kaukaski,iglaste
+223,Abies grandis ,jodła olbrzymia,iglaste
+224,Phellodendron amurense,korkowiec amurski,liściaste
+225,Betula utilis 'Jacquemonta',brzoza pożyteczna odm. Jacquemonta,liściaste
+226,Chamaecyparis lawsoniana,cyprysik Lawsona,iglaste
+227,Sorbus aucuparia 'Pendula',"jarząb pospolity ""Pendula""",liściaste
+228,Fraxinus angustifolia,jesion wąskolistkowy,liściaste
+229,Populus simonii 'Fastigiata',"topola Simona ""Fastigiata""",liściaste
+230,Rhus typhina 'Dissecta',"sumak octowiec ""Dissecta""",liściaste
+231,Caragana arborescens 'Lorbergii',"karagana syberyjska ""Lorbergii""",O
+232,Ailanthus  sp.,bożodrzew  sp.,liściaste
+233,Thuja plicata 'Zebrina',"żywotnik olbrzymi ""Zebrina""",iglaste
+234,Populus x canadensis 'Robusta',"topola kanadyjska ""Robusta""",liściaste
+235,Larix x marschlinsii,modrzew eurojapoński,iglaste
+236,Viburnum  sp.,kalina  sp.,liściaste
+237,Salix integra 'Hakuro Nishiki',"wierzba całolistna ""Hakuro Nishiki""",liściaste
+238,Thuja occidentalis 'Aurescens',"żywotnik zachodni ""Aurescens""",iglaste
+239,Malus x purpurea 'Ola',"jabłoń purpurowa ""Ola""",liściaste
+240,Prunus cerasifera 'Pissardii',"śliwa ałycza ""Pissardii""",liściaste
+241,Picea glauca 'Conica',"świerk biały ""Conica""",iglaste
+242,Picea glauca,świerk biały,iglaste
+243,Acer negundo 'Flamingo',"klon jesionolistny ""Flamingo""",liściaste
+244,Acer pseudoplatanus 'Atropurpureum',"klon jawor ""Atropurpureum""",liściaste
+245,Larix decidua subsp. polonica,modrzew europejski subsp. polonica,iglaste
+246,Picea abies 'Viminalis',"świerk pospolity ""Viminalis""",iglaste
+247,Cornus sanguinea,dereń świdwa,liściaste
+248,Prunus fruticosa,wiśnia karłowata,liściaste
+249,Cladrastis kentukea,strączyn zółty,liściaste
+250,Malus sieversii 'Niedzwetzkyana',jabłoń Sieversa odm. Niedźwieckiego,liściaste
+251,Magnolia kobus,magnolia japońska,liściaste
+252,Cornus  sp.,dereń  sp.,liściaste
+253,Chamaecyparis pisifera,cyprysik groszkowy,iglaste
+254,Fraxinus pennsylvanica 'Crispa',"jesion pensylwański ""Crispa""",liściaste
+255,Pterocarya  sp.,skrzydłorzech  sp.,liściaste
+256,Juglans nigra,orzech czarny,liściaste
+257,Malus floribunda,jabłoń kwiecista,liściaste
+258,Prunus armeniaca,morela pospolita,O
+259,Cercidiphyllum japonicum,grujecznik japoński,liściaste
+260,Magnolia x soulangeana,"magnolia Soulange""a",liściaste
+261,Acer palmatum,klon palmowy,liściaste
+262,Pinus cembra,sosna limba,iglaste
+263,Aesculus flava,kasztanowiec żółty,liściaste
+264,Crataegus x media 'Alboplena',"głóg pośredni ""Alboplena""",liściaste
+265,Malus 'Royality',"jabłoń   ""Royality""",liściaste
+266,Fraxinus excelsior 'Heterophylla Pendula',"jesion wyniosły ""Heterophylla Pendula""",liściaste
+267,Sorbus commixta,jarząb dalekowschodni,liściaste
+268,Forsythia  sp.,forsycja  sp.,O
+269,Robinia x margaretta Casque Rouge,robinia Małgorzaty Casque Rouge,liściaste
+270,Gleditsia  sp.,glediczja  sp.,liściaste
+271,Prunus domestica subsp. insititia,śliwa domowa renkloda,liściaste
+272,Robinia pseudoacacia 'Frisia',"robinia biała ""Frisia""",liściaste
+273,Populus alba 'Pyramidalis',"topola biała ""Pyramidalis""",liściaste
+274,Pterocarya fraxinifolia,skrzydłorzech kaukaski,liściaste
+275,Metasequoia glyptostroboides,metasekwoja chińska,iglaste
+276,Magnolia x soulangeana 'Alexandrina',"magnolia Soulange""a ""Alexandrina""",liściaste
+277,Malus 'Golden Hornet',"jabłoń ""Golden Hornet""",liściaste
+278,Quercus cerris,dąb burgundzki,liściaste
+279,Taxodium distichum,cypryśnik błotny,iglaste
+280,Aesculus caernea 'Brioti',"kasztanowiec czerwony ""Briotii""",liściaste
+281,Robinia hispida,robinia szczeciniasta,liściaste
+282,Prunus mahaleb,wiśnia wonna,liściaste
+283,Sorbus 'Flanrock',"jarząb ""Flanrock""",liściaste
+284,Malus x scheideckeri,jabłoń Scheideckera,liściaste
+285,Acer saccharinum 'Laciniatum Wieri',"klon srebrzysty ""Laciniatum Wieri""",liściaste
+286,Pyrus salicifolia 'Pendula',"grusza wierzbolistna ""Pendula""",liściaste
+287,Quercus robur 'Concordia',"dąb szypułkowy ""Concordia""",liściaste
+288,Larix archangelica,modrzew archangielski,iglaste
+289,Fagus sylvatica 'Purpurea',"buk pospolity ""Purpurea""",liściaste
+290,Juglans cinerea,orzech szary,liściaste
+291,Tsuga  sp.,choina  sp.,iglaste
+292,Betula pendula 'Dalecarlica',"brzoza brodawkowata ""Dalecarlica""",liściaste
+293,Crataegus punctata,głóg cętkowany,liściaste
+294,Crataegus pedicellata,głóg szypułkowy,liściaste
+295,Thuja occidentalis 'Aureospicata',"żywotnik zachodni  ""Aureospicata""",iglaste
+296,Calluna sp.,wrzos sp.,O
+297,Celtis  sp.,wiązowiec  sp.,liściaste
+298,Prunus dulcis,migdałowiec pospolity,O
+299,Frangula alnus,kruszyna pospolita,liściaste
+300,Quercus alba,dąb biały,liściaste
+301,Cydonia oblonga,pigwa pospolita,liściaste
+302,Pinus nigra 'Pyramidalis',"sosna czarna ""Pyramidalis""",iglaste
+303,Thuja plicata,żywotnik olbrzymi,iglaste
+304,Ginkgo biloba 'Fastigiata',"miłorząb dwuklapowy ""Fastigiata""",liściaste
+305,Salix pentandra,wierzba laurowa,liściaste
+306,Aesculus hippocastanum 'Pyramidalis',"kasztanowiec pospolity ""Pyramidalis""",liściaste
+307,Pinus mugo,sosna górska ,iglaste
+308,Pinus banksiana,sosna Banksa,iglaste
+309,Castanea sativa,kasztan jadalny,liściaste
+310,Sophora sp.,sofora,O
+311,Rhamnus cathartica,szakłak pospolity,liściaste
+312,Ulmus x hollandica,wiąz holenderski,liściaste
+313,Prunus cerasifera 'Nigra',"śliwa ałycza ""Nigra""",liściaste
+314,Celtis occidentalis,wiązowiec zachodni,liściaste
+315,Quercus palustris,dąb błotny,liściaste
+316,Acer pseudoplatanus 'Worley',"klon jawor  ""Worley""",liściaste
+317,Sorbus aria 'Magnifica',"jarząb mączny ""Magnifica""",liściaste
+318,Amelanchier sp. ,świdośliwa sp.,liściaste
+319,Prunus cerasifera 'Woodii',"śliwa ałycza ""Woodii""",liściaste
+320,Crataegus rhipidophylla,głóg odgiętodziałkowy,liściaste
+321,Pseudotsuga menziesii var.glauca,daglezja zielona var.glauca,iglaste
+322,Catalpa ovata,surmia żółtokwiatowa,liściaste
+323,Fagus sylvatica 'Purpurea Pendula',"buk pospolity ""Purpurea Pendula""",liściaste
+324,Taxodium sp,cypryśnik,iglaste
+325,Ilex  sp.,ostrokrzew  sp.,liściaste
+326,Frangula  sp.,kruszyna  sp.,liściaste
+327,Sambucus racemosa,bez koralowy ,liściaste
+328,Acer saccharum,klon cukrowy,liściaste
+329,Acer platanoides 'Royal red',"klon pospolity ""Royal red""",liściaste
+330,Crataegus persimilis 'Splendens',głóg śliwolistny 'Splendens',liściaste
+331,Picea orientalis 'Aurea',"świerk kaukaski ""Aurea""",iglaste
+332,Fraxinus excelsior f. diverisifolia,jesion wyniosły f. diverisifolia,liściaste
+333,Aronia melanocarpa,aronia czarna,O
+334,Acer pseudoplatanus 'Brilantissimum',klon jawor 'Brilantissimum',liściaste
+335,Prunus cerasifera 'Pissardii',"śliwa ałycza ""Pissardii""",liściaste
+336,Acer platanoides 'Schwedleri',"klon pospolity ""Schwedleri""",liściaste
+337,Alnus glutinosa 'Laciniata',"olsza czarna ""Laciniata""",O
+338,Hamamelis  sp.,oczar  sp.,liściaste
+339,Robinia viscosa,robinia lepka,liściaste
+340,Prunus x cistena,śliwa dziecięca,liściaste
+341,Magnolia sieboldii,magnolia Siebolda,liściaste
+342,Laburnum x watereri,złotokap Waterera,liściaste
+343,Betula maxymowicziana,brzoza Maksymowicza,liściaste
+344,Thuja occidentalis 'Columna',"żywotnik zachodni ""Columna""",iglaste
+345,Thujopsis sp.,żywotnikowiec sp.,iglaste
+346,Buxus  sp.,bukszpan  sp.,O
+347,Caragana arborescens 'Walker',"karagana syberyjska ""Walker""",O
+348,Thujopsis dolabrata,żywotnikowiec japoński,iglaste
+349,Thuja occidentalis 'Yellow Ribbon',"żywotnik zachodni ""Yellow Ribbon""",iglaste
+350,Sorbus aucuparia 'Fastigiata',"jarząb pospolity ""Fastigiata""",liściaste
+351,Pinus sylvestris 'Fastigiata',"sosna pospolita ""Fastigiata""",iglaste
+352,Tamarix tetrandra,tamaryszek czteropręcikowy,O
+353,Ulmus pumila,wiąz syberyjski,liściaste
+354,Platycladus sp.,biota,O
+355,Gymnocladus dioica,kłęk amerykański,liściaste
