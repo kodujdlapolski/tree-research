@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Scraper that gets the tree data from mapa.um.warszawa.pl for given boundaries.
 Note that:
@@ -14,6 +15,7 @@ xxxxxxxxxB
 
 
 import csv
+from datetime import datetime
 from pprint import pprint
 import json
 import requests
@@ -104,15 +106,16 @@ def save_to_csv(tree_data: dict, bbox: List) -> None:
         'y',
     ]
 
-    bbox_formatted = ','.join(str(c) for c in bbox)
-    with open(f'data/trees_{bbox_formatted}.csv', 'w') as desc:
+    today = datetime.now().strftime('%Y-%m-%d')
+    with open(f'data/trees_{today}.csv', 'w') as desc:
         writer = csv.DictWriter(desc, fieldnames=fieldnames)
         writer.writeheader()
-        for row in tree_data['foiarray']:
+        for row in tree_data:
             writer.writerow(row)
 
 
 def main() -> None:
+    data = []
     for long in range(int(BOUND_UP[0]), int(BOUND_DOWN[0]), TILE_SIDE):
         for lat in reversed(range(int(BOUND_DOWN[1]), int(BOUND_UP[1]), TILE_SIDE)):
             bbox = [
@@ -120,12 +123,12 @@ def main() -> None:
                 long + TILE_SIDE, lat
             ]
             bbox = list(map(float, bbox))
-            print(bbox)
-
             req_data = get_data_chunk(bbox)
             data_str = fix_json(req_data)
             parsed_data = parse_tree_data(data_str)
-            save_to_csv(parsed_data, bbox)
+            data += parsed_data['foiarray']
+
+    save_to_csv(data, [1, ])
 
 
 if __name__ == '__main__':
